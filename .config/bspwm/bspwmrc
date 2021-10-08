@@ -7,7 +7,7 @@ sxhkd &
 
 # compositing and wallpaper 
 wal -R &
-picom --corner-radius 9 &
+picom  &
 tint2 &
 xrdb merge ~/.Xresources &  # (terminal theme)
 
