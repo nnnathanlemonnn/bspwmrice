@@ -22,5 +22,5 @@ put /usr/ to your root directory
 ```
 
 ## Thanks to
-##	[davatorium/rofi](https://github.com/davatorium/rofi)
-##  [adi1090x/rofi](https://github.com/adi1090x/rofi)
+-	[davatorium/rofi](https://github.com/davatorium/rofi)
+-  [adi1090x/rofi](https://github.com/adi1090x/rofi)
